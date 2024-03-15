@@ -1,0 +1,14 @@
+A) a = 1, b = 2, c = 3
+Saída: "Não e possível formar um triângulo"
+
+B) a = 3, b = 4, c = 5
+Saída: "Triângulo Escaleno"
+
+C) a = 2, b = 2, c = 4
+Saída: "Triângulo Isósceles"
+
+D) a = 4, b = 4, c = 4
+Saída: "Triângulo Equilátero"
+
+E) a = 5, b = 3, c = 3
+Saída: "Triângulo Isósceles"
